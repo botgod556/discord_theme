@@ -73,8 +73,8 @@
 */
 
         /*--- 1 imports ---*/
-@import url('!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!/DiscordPlus-plugins.theme.css');
-@import url('!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!/DiscordPlus-extras.theme.css');
+@import url('https://raw.githubusercontent.com/botgod556/discord_theme/main/DiscordPlus-plugins.theme.css');
+@import url('https://raw.githubusercontent.com/botgod556/discord_theme/main/DiscordPlus-extras.theme.css');
 /* Main fonts */
 @import url(https://fonts.googleapis.com/css?family=Poppins:400,700|Roboto:400,700|Righteous);
 /* Localized fonts */
@@ -185,8 +185,8 @@
 	--dplus-wordmark: url(https://plusinsta.github.io/discord-plus/assets/wordmark_white.svg);
 
 	/* Icons */
-	--dplus-icon-home-dark: url(!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!);
-	--dplus-icon-home-light: url(https://plusinsta.github.io/discord-plus/assets/discord/home_light.svg);
+	--dplus-icon-home-dark: url(https://raw.githubusercontent.com/botgod556/discord_theme/main/noun-home-6377922%20(1).svg);
+	--dplus-icon-home-light: url(https://raw.githubusercontent.com/botgod556/discord_theme/main/noun-home-6377922%20(1).svg);
 
 	/* Icon sizes*/
 	--dplus-icon-avatar-chat: 64px;
